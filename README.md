@@ -2,5 +2,6 @@ How can generative art using programming help us in understanding aesthetics? Wh
 
 This project is built on the Processing programming environment. Many pieces of code floating in the cyberspace have served as inspiration and this project aspires to do the same in turn.
 
+The website for this project is: http://beard-coded.tumblr.com/info
 
 **Srinivas Mangipudi**
