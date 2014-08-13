@@ -3,4 +3,4 @@ How can generative art using programming help us in understanding aesthetics? Wh
 This project is built on the Processing programming environment. Many pieces of code floating in the cyberspace have served as inspiration and this project aspires to do the same in turn.
 
 
-Srinivas Mangipudi
+**Srinivas Mangipudi**
